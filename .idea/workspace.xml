@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="677b5744-636f-4ae0-89de-500940d6b1db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/RxJavaStudy/src/HelloRxJava/Hello.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RxJavaStudy/src/ObserverDesignPattern/BookStore.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2TjyXFVb6lzacsZcqoUPjrDzKuJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="677b5744-636f-4ae0-89de-500940d6b1db" name="Default Changelist" comment="" />
+      <created>1691570822833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691570822833</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="125" key="FileChooserDialogImpl" timestamp="1691579960401">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="432" y="125" key="FileChooserDialogImpl/0.0.1304.768@0.0.1304.768" timestamp="1691579960401" />
+    <state x="243" y="4" key="new project wizard" timestamp="1691579991445">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="243" y="4" key="new project wizard/0.0.1304.768@0.0.1304.768" timestamp="1691579991445" />
+  </component>
+</project>
